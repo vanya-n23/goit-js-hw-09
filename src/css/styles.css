@@ -10,7 +10,7 @@
 @import url('./container.css');
 @import url('./animations.css');
 
-/* Sections style */
+
 @import url('./header.css');
 @import url('./vite-promo.css');
 @import url('./badges.css');
@@ -40,9 +40,6 @@
   height: 200px;
   cursor: zoom-in
 }
-
-
-
 
 /* form */
 
@@ -101,6 +98,7 @@
   line-height: 1.5;
   letter-spacing: 0.04em;
   color: #fff;
+
 }
 
 .form-textarea {
